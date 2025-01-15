@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Julia: unreachable code after return statements within a function. The initial `bug.jl` file contains a function with unreachable code. The corrected version, `bugSolution.jl`, removes the unnecessary lines and offers a clearer structure.
